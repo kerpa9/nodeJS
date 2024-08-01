@@ -1,0 +1,30 @@
+{
+  "name": "examples-node",
+  "version": "1.0.0",
+  "description": "Node desde cero",
+  "main": "fs_async_await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerpa9/nodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "commonJS",
+    "ECMAScript",
+    "ECMAScript",
+    "Modules"
+  ],
+  "author": "Keven Steven Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerpa9/nodeJS/issues"
+  },
+  "homepage": "https://github.com/kerpa9/nodeJS#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "picocolors": "1.0.1"
+  }
+}

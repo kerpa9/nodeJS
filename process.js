@@ -11,4 +11,5 @@
 // console.log(process.cwd());
 
 //platform
-// console.log(process.env);
+// console.log(process.env.CASA);
+// console.log("Hola");
